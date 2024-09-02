@@ -1,0 +1,14 @@
+C:\Users\jovan\source\repos\KosarkaTurnir\obj\Debug\net8.0\KosarkaTurnir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovan\source\repos\KosarkaTurnir\obj\Debug\net8.0\KosarkaTurnir.AssemblyInfoInputs.cache
+C:\Users\jovan\source\repos\KosarkaTurnir\obj\Debug\net8.0\KosarkaTurnir.AssemblyInfo.cs
+C:\Users\jovan\source\repos\KosarkaTurnir\obj\Debug\net8.0\KosarkaTurnir.csproj.CoreCompileInputs.cache
+C:\Users\jovan\source\repos\KosarkaTurnir\bin\Debug\net8.0\KosarkaTurnir.exe
+C:\Users\jovan\source\repos\KosarkaTurnir\bin\Debug\net8.0\KosarkaTurnir.deps.json
+C:\Users\jovan\source\repos\KosarkaTurnir\bin\Debug\net8.0\KosarkaTurnir.runtimeconfig.json
+C:\Users\jovan\source\repos\KosarkaTurnir\bin\Debug\net8.0\KosarkaTurnir.dll
+C:\Users\jovan\source\repos\KosarkaTurnir\bin\Debug\net8.0\KosarkaTurnir.pdb
+C:\Users\jovan\source\repos\KosarkaTurnir\obj\Debug\net8.0\KosarkaTurnir.dll
+C:\Users\jovan\source\repos\KosarkaTurnir\obj\Debug\net8.0\refint\KosarkaTurnir.dll
+C:\Users\jovan\source\repos\KosarkaTurnir\obj\Debug\net8.0\KosarkaTurnir.pdb
+C:\Users\jovan\source\repos\KosarkaTurnir\obj\Debug\net8.0\KosarkaTurnir.genruntimeconfig.cache
+C:\Users\jovan\source\repos\KosarkaTurnir\obj\Debug\net8.0\ref\KosarkaTurnir.dll
